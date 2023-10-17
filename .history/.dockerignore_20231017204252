@@ -1,0 +1,7 @@
+.history
+.gitignore
+
+.docker
+
+app/__pycache__/
+app/
